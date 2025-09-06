@@ -1827,7 +1827,7 @@ cover: 1
 | 参数           | 必须                        | 说明  |
 |--------------|---------------------------|-----|
 | id           | 是                         | 主键  |
-| clientType 是 | 客户端类型 Shadowrocket/v2rayN |
+| clientType   | 是                         | 客户端类型 Shadowrocket/v2rayN |
 
 返回示例:
 
@@ -1866,7 +1866,7 @@ cover: 1
 | 参数           | 必须                        | 说明  |
 |--------------|---------------------------|-----|
 | id           | 是                         | 主键  |
-| clientType 是 | 客户端类型 Shadowrocket/v2rayN |
+| clientType   | 是                         | 客户端类型 Shadowrocket/v2rayN |
 
 返回示例:
 
